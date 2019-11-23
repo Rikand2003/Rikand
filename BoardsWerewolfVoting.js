@@ -3,12 +3,8 @@ Skip to content
 All gists
 Back to GitHub
 @Rikand2003
-@Makaze Makaze/2+2_Mafia_Votal_Generator.user.js
-Last active 12 days ago • Report abuse
+@Rikand2003 Rikand/BoardsWerewolfVoting.js
 
-0
-Code
-Revisions 17
 A mafia vote counter for Boards.ie
 BoardsWerewolfVoting.js
 // ==UserScript==
